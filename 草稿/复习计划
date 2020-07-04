@@ -1,0 +1,82 @@
+# 复习计划
+
+
+
+## 数据结构
+
+###  hashmap 底层实现&&扩容机制(√)
+
+
+
+### linkedList&&arrayList区别（√）
+
+
+
+### currentHashMap(√)
+
+
+
+## JVM & jdk8
+
+### JVM
+
+#### 堆内存分区
+
+#### 常用GC及其实现算法
+
+
+
+### jdk8
+
+#### streamApi
+
+#### lamda表达式
+
+
+
+## 常用框架
+
+### spring
+
+### mybatis
+
+### springboot
+
+### springmvc
+
+### shiro
+
+
+
+## 数据库
+
+### mysql
+
+#### 索引
+
+#### 存储过程
+
+
+
+
+
+## 中间件
+
+### redis
+
+#### 持久化过程
+
+#### 数据结构
+
+#### 主从同步
+
+
+
+### rabbitMQ
+
+#### 消息持久化
+
+#### 并行处理
+
+
+
